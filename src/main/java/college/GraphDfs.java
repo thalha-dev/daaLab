@@ -13,7 +13,7 @@ class GraphDfs {
   private LinkedList<Integer> adj[];
 
   // Constructor
-  @SuppressWarnings("unchecked")
+  // @SuppressWarnings("unchecked")
   GraphDfs(int v) {
     V = v;
     adj = new LinkedList[v];

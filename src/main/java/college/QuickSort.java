@@ -43,6 +43,7 @@ public class QuickSort {
     for (int i = 0; i < arr.length; i++) {
       arr[i] = sc.nextInt();
     }
+    sc.close();
 
     QuickSort ob = new QuickSort();
 

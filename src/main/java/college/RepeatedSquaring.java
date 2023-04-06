@@ -32,3 +32,4 @@ public class RepeatedSquaring {
     System.out.println("Result :  " + result);
   }
 }
+
